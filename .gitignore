@@ -1,0 +1,6 @@
+# for voicepeak
+settings.json
+/img
+*.jpg
+*.JPG
+/voicepeak/generate
