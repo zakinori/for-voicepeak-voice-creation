@@ -1,6 +1,5 @@
 # for voicepeak
-settings.json
-/img
-*.jpg
-*.JPG
-/voicepeak/generate
+/.vscode
+/generate
+generator_settings.json
+voicepeak_wav_converter.bat
