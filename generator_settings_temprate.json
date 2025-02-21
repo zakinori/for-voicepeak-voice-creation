@@ -1,0 +1,15 @@
+{
+  "voicepeak_exe": "PATH: voicepeak.exe",
+  "voicepeak_actor": "XXX",
+  "voicepeak_emotion": "happy=0,fun=100,sad=0,angry=0",
+  "voicepeak_text_limit": 140,
+  "sequential_number_digits": 3,
+  "workspace_folder": "generate",
+  "rss_feed": [
+    {
+        "url": "https://XXX",
+        "file_prefix": "XXX",
+        "description": "XXX"
+    }
+  ]
+}
